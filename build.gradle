@@ -1,0 +1,3 @@
+task gradleHomeDir{
+    println gradle.gradleHomeDir
+}
